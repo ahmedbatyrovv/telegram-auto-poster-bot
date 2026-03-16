@@ -1,0 +1,19 @@
+{
+  "users": {
+    "6179312865": {
+      "channels": [
+        {
+          "channel": "@cobra_servers",
+          "lastMsgId": 188313
+        }
+      ],
+      "message": "Like Goýmagy Unutmaň ❤️‍🔥",
+      "interval": 30,
+      "tariff": "Premium",
+      "sentCount": 578,
+      "states": {}
+    }
+  },
+  "hasStarted": true,
+  "additionalAdmins": []
+}
