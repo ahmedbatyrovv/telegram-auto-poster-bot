@@ -3,7 +3,7 @@ const schedule = require("node-schedule");
 const fs = require("fs-extra");
 const path = require("path");
 
-const TOKEN = "8681593406:AAHisiJeeaOn0U5aNhQykrp2gzAu8psMytk";
+const TOKEN = "8599177717:AAG0zSi32RrQz_bW0aNb5WFlru1ESVu9dOE";
 const SUPER_ADMIN_IDS = [6179312865];
 
 let ADMIN_IDS = [...SUPER_ADMIN_IDS];
